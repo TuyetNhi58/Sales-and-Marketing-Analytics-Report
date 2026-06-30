@@ -1,4 +1,4 @@
-# Sales-and-Marketing-Analytics-Report
+# Sales-and-Marketing-Analysis-Report
 ## Project Overview
 **Power BI Link: https://app.powerbi.com/view?r=eyJrIjoiMDM5Yjg0M2MtNDE2ZS00ZmQ2LTg0NGUtMTcxNWUyZmJjNzNkIiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D** 
 
