@@ -36,7 +36,7 @@ Star Schema Model
 **Reasons:**
 - VanArsdel's market share dropped sharply in June 2014 despite relatively stable overall market demand.
 - Competitors gained market share mainly in the Convenience and Moderation segments.
-- Customer sentiment declined across several regions. There is a lack of quality consistency between regions and issues at points of sale, leading to low customer ratings.
+- There is a lack of quality consistency between regions and issues at points of sale, leading to low customer ratings.
 - Product diversity was lower than key competitors, reducing competitiveness in emerging market segments ( VanArsdel's product segments are still narrow)
 
 ## Recommendations
