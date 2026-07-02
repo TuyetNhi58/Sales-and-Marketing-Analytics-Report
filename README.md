@@ -15,18 +15,18 @@ Star Schema Model
 
 
 ## Dashboard Overview
-**Overview Dashboard
+** Overview Dashboard
 - Revenue Performance
 - Sales Volume
 - Year-over-Year Growth
 
-**Market Share Dashboard
+** Market Share Dashboard
 - Revenue Market Share
 - Unit Market Share
 - Competitor Comparison
 - Monthly Trend
 
-**Sentiment Dashboard
+** Sentiment Dashboard
 - Customer Rating
 - Regional Comparison
 - Sentiment Trend
