@@ -5,50 +5,39 @@
 A Sales and Marketing dataset about a fictional manufacturing company named VanArsdel. The data covers the period from 1999 to January 2015. Although VanArsdel has many competitors, it remains the market leader. However, the CMO wants to increase market share and explore growth opportunities. The problem is that VanArsdel's market share has started to decline, with a significant drop in June 2014.
 
 ## Business Objectives
-- Analyze to find the reasons for the decline in VanArsdel's market share in June 2014.
-- Propose actions to enhance business performance for VanArsdel.
-- Build visual reports using Power BI for project reporting.
+- Identify the key factors behind the decline in VanArsdel's market share in June 2014.
+- Evaluate sales, market share, and customer sentiment across regions and competitors.
+- Provide data-driven recommendations to improve business performance.
 
 ## Data Model
-**Dim Table:**
-- Geo
-- Date
-- Product
-- Manufacturer
+Star Schema Model
+<img width="1114" height="682" alt="image" src="https://github.com/user-attachments/assets/72243c03-2e6f-4793-a06c-45c4219a240f" />
 
-**Fact Table:**
-- Sentiment
-- SalesFact
 
 ## Dashboard Overview
-**Overview 2014:** Analysis of business performance (revenue and volume) and VanArsdel's market position in 2014. 
-- Total Revenue
-- Total Units
-- VanArsdel Revenue
-- VanArsdel Revenue SPLY
-- % Growth Revenue
-- Total VanArsdel Units
-- Total VanArsdel Units SPLY
-- % Growth Units
+**Overview Dashboard
+- Revenue Performance
+- Sales Volume
+- Year-over-Year Growth
 
-**VanArsdel Market Share 2014:** Comparison of VanArsdel's performance with competitors in 2014 by month and segment. 
-- % Units Market Share
-- % Revenue Market Share
-- % Unit Market Share YOY Change
-- Total Other Units
-- Other Revenue
-- Total VanArsdel Units
+**Market Share Dashboard
+- Revenue Market Share
+- Unit Market Share
+- Competitor Comparison
+- Monthly Trend
 
-**Sentiment Analysis 2014:** Evaluation of VanArsdel's average score by month and region, comparing scores with competitors.
-- Sentiment Gap
-- Average Score
-- Sum of Score
+**Sentiment Dashboard
+- Customer Rating
+- Regional Comparison
+- Sentiment Trend
+- Competitor Benchmark
 
 ## Key Insights
 **Reasons:**
-- There was a sudden change in consumer trends in June 2014, but the company did not react quickly enough.
-- VanArsdel's product segments are still narrow and not diverse.
-- There is a lack of quality consistency between regions and issues at points of sale, leading to low customer ratings.
+- VanArsdel's market share dropped sharply in June 2014 despite relatively stable overall market demand.
+- Competitors gained market share mainly in the Convenience and Moderation segments.
+- Customer sentiment declined across several regions. There is a lack of quality consistency between regions and issues at points of sale, leading to low customer ratings.
+- Product diversity was lower than key competitors, reducing competitiveness in emerging market segments ( VanArsdel's product segments are still narrow)
 
 ## Recommendations
 **First: Boost marketing activities in June**
